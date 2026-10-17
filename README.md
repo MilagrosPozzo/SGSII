@@ -54,7 +54,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\install_xampp.ps1 -XamppPath 
 9. Si no existe un administrador, crea `admin` con una contraseña aleatoria segura y la muestra una sola vez en la terminal.
 10. Conserva el administrador y su contraseña en ejecuciones posteriores.
 11. Verifica la conexión, las tablas y el administrador.
-12. Ejecuta las 19 pruebas automatizadas cuando las extensiones SQLite de XAMPP están disponibles.
+12. Ejecuta las 40 pruebas automatizadas cuando las extensiones SQLite de XAMPP están disponibles.
 13. Inicia Apache si está detenido y comprueba la página real por HTTP.
 
 Al finalizar debe aparecer:
